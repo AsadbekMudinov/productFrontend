@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Redmi Note 8",
+    "price": 1800000,
+    "color": "Black",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "title": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "img": "https://www.costco.co.uk/medias/sys_master/images/hf5/h3e/119445888237598.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Redmi Note 11",
+    "price": 3800000,
+    "color": "Ocean Blue",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "title": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "img": "https://www.costco.co.uk/medias/sys_master/images/hf5/h3e/119445888237598.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S22 Ultra",
+    "price": 18000000,
+    "color": "White",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "title": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "img": "https://www.costco.co.uk/medias/sys_master/images/hf5/h3e/119445888237598.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Iphone 14",
+    "price": 18000000,
+    "color": "Gold",
+    "category": "smartphone",
+    "brand": "Apple",
+    "title": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "img": "https://www.costco.co.uk/medias/sys_master/images/hf5/h3e/119445888237598.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Iphone 13 pro",
+    "price": 10000000,
+    "color": "Silver",
+    "category": "smartphone",
+    "brand": "Apple",
+    "title": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "img": "https://www.costco.co.uk/medias/sys_master/images/hf5/h3e/119445888237598.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Galaxy S21",
+    "price": 12000000,
+    "color": "Blue",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "title": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "img": "https://www.costco.co.uk/medias/sys_master/images/hf5/h3e/119445888237598.jpg"
+  }
+]

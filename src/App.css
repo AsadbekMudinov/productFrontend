@@ -1,0 +1,44 @@
+.bir{
+  color: red;
+  font-family: Verdana;
+}
+.ikki{
+  color: blue;
+  font-family: Calibri;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  gap: 25px;
+}
+
+.menyu{
+  height: 50px;
+  background-color: orange;
+}
+.about{
+  flex-direction: column;
+}
+
+.prod{
+  flex-wrap: wrap;
+}
+
+
+.login, .newProduct{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0, 0, 0.8);
+}
+
+.login form, .newProduct form{
+  width: 50vw;
+  min-height: 50vh;
+  background-color: white;
+  padding: 25px;
+}
+
